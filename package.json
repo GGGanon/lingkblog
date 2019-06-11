@@ -1,0 +1,12 @@
+{
+  "name": "lingkblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GGGanon/lingkblog.git",
+  "author": "JalanJiang <448300947@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
