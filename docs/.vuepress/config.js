@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Hello LingKBlog!',
     description: '写博客一时爽，一直写一直爽',
+    base: '/lingkblog/',
     // 主题配置
     themeConfig: {
         nav:[
