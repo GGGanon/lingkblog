@@ -5,7 +5,7 @@ module.exports = {
     // 主题配置
     themeConfig: {
         nav:[
-            { text: 'API 文档', link: '/api-docs/admin/' }, // 内部链接 以docs为根目录      
+            { text: '管理后台 API 文档', link: '/api-docs/admin/' }, // 内部链接 以docs为根目录      
         ]
     }
 }
